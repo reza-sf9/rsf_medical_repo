@@ -1,0 +1,23 @@
+Metadata-Version: 2.2
+Name: rsf_medical_proj
+Version: 0.1
+Summary: A Python package containing utilities for folder searching, dataset loading, GPU info, and API authentication.
+Home-page: https://github.com/yourusername/mypackage
+Author: Reza Saadati Fard
+Author-email: saadatifard.reza@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: Pillow
+Requires-Dist: tqdm
+Requires-Dist: torch
+Requires-Dist: huggingface_hub
+Requires-Dist: openai
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

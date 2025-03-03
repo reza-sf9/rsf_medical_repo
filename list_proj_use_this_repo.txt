@@ -1,0 +1,6 @@
+these repo use this package, and if a change is made to any module, should make sure the projects getting updates to correctly
+use the modules of the package
+
+proj2/fine_tuning/gpt
+proj2/fine_tuning/Llama_unsloth_piid
+
