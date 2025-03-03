@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="rsf_medical_repo",
-    version="1.0.0", # Version number (Major.Minor.Patch)
+    version="1.0.1", # Version number (Major.Minor.Patch)
     packages=find_packages(),  # Automatically finds all subpackages
     description="A Python package containing utilities for folder searching, dataset loading, GPU info, and API authentication.",
     author="Reza Saadati Fard",

@@ -1,5 +1,0 @@
-Pillow
-tqdm
-torch
-huggingface_hub
-openai
